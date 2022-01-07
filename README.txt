@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-This is a assignment related to java full stack developer anfular
+<<<<<<< HEAD hey
+This is a assignment related to java full stack developer anfular and 
 I am learning git and git hub
 Intresting topic.
 =======
